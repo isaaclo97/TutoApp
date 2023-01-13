@@ -15,9 +15,6 @@ The results of this study open the door to the validation of the use of systems 
 - Education & Educational Research: Q1 - 38/270
 - Computer Science, Interdisciplinary Applications: Q2 - 41/112
 
-## Application and source code
-
-Pending.
 
 ## Cite
 
