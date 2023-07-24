@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=isaaclo97.TutoApp&color=be54c6&style=flat&logo=Github)
+![visitor badge](https://vbr.wocr.tk/badge?page_id=isaaclo97.TutoApp&color=be54c6&style=flat&logo=Github)
 ![Manintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![GitHub last commit (master)](https://img.shields.io/github/last-commit/isaaclo97/TutoApp)
 ![Starts](https://img.shields.io/github/stars/isaaclo97/TutoApp.svg)
@@ -11,9 +11,9 @@ In this article, the TutoApp system is proposed together with a new methodology 
 The results of this study open the door to the validation of the use of systems and methodologies for creating tutorials for teaching visual programming to university students.
 
 - Paper link: [https://doi.org/10.1109/TLT.2022.3226122](https://doi.org/10.1109/TLT.2022.3226122)
-- Impact Factor: 4.433 
-- Education & Educational Research: Q1 - 38/270
-- Computer Science, Interdisciplinary Applications: Q2 - 41/112
+- Impact Factor: 3.700 
+- Education & Educational Research: Q1 - 58/269 (2022)
+- Computer Science, Interdisciplinary Applications: Q2 - 54/110 (2022)
 
 
 ## Cite
